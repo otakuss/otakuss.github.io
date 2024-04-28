@@ -1,0 +1,41 @@
+
+<!doctype html>
+<html lang="zh-CN">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no" />
+  <title>Speed17|放心云</title>
+  <script type="module" crossorigin src="/theme/Xboard/assets/umi.js"></script>
+</head>
+
+<body>
+
+  <script>
+    window.routerBase = "/";
+    window.settings = {
+      title: 'Speed17|放心云',
+      assets_path: '/theme/Xboard/assets',
+      theme: {
+        color: 'black',
+      },
+      version: '0.1.1-dev',
+      background_url: 'https://s1.ax1x.com/2020/07/29/aVhja9.jpg',
+      description: '大陆访问: https://speed17.net',
+      i18n: [
+        'zh-CN',
+        'en-US',
+        'ja-JP',
+        'vi-VN',
+        'ko-KR',
+        'zh-TW',
+        'fa-IR'
+      ],
+      logo: ''
+    }
+  </script>
+  <div id="app"></div>
+  
+</body>
+
+</html>
