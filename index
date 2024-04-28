@@ -14,7 +14,7 @@
   <script>
     window.routerBase = "/";
     window.settings = {
-      title: 'Speed17|放心云',
+      title: 'Speed17|放心云d',
       assets_path: '/theme/Xboard/assets',
       theme: {
         color: 'black',
